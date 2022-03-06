@@ -3,7 +3,7 @@ name: VyOS v1.2 LTS Release
 on:
   push:
     tags:
-      - 'v1.2.*'
+      - 'v1.3.*'
 
 env:
   GIT_CLONE_URL: https://github.com/vyos/vyos-build
