@@ -1,4 +1,4 @@
-name: VyOS v1.2 LTS Release
+name: VyOS v1.3 LTS Release
 
 on:
   push:
