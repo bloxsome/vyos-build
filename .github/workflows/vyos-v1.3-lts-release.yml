@@ -7,7 +7,7 @@ on:
 
 env:
   GIT_CLONE_URL: https://github.com/vyos/vyos-build
-  BRANCH: crux
+  BRANCH: equuleus
   ARCHITECTURE: amd64
   BUILD_BY: vyos-build-action@github.com
   BUILD_TYPE: release
